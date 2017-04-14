@@ -1,0 +1,13 @@
+
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+}
+.formulario {
+    display:block;
+    margin:0 auto;
+    width:510px;
+    color: #666666;
+    font-family:Arial;
+}
